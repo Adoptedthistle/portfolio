@@ -1,5 +1,21 @@
 .App {
   text-align: center;
+  
+}
+
+body{
+  background-color: cornflowerblue;
+  font-family: 'Satisfy', cursive;
+  color: white;
+  display:inline-block;
+  
+}
+
+
+
+h1{
+
+  font-size: 68px;
 }
 
 .App-logo {
