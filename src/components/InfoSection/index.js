@@ -4,7 +4,7 @@ import { queryAllByPlaceholderText } from '@testing-library/react';
 
 function InfoSection(){
     return(
-<div>
+<div id="infoSection">
     <h2>About Me</h2>
     <p>A former marketer and outreach worker embarking on a new adventure into the world of tech.</p>
     <p></p>

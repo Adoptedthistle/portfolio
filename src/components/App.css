@@ -5,7 +5,7 @@
 
 body{
   background-color: cornflowerblue;
-  font-family: 'Satisfy', cursive;
+  font-family: 'Lobster Two', cursive;
   color: white;
   display:inline-block;
   
@@ -16,6 +16,13 @@ body{
 h1{
 
   font-size: 68px;
+}
+
+#infoSection{
+  background-color: whitesmoke;
+  color: crimson;
+  padding: 2vw;
+  border: dashed 2pt crimson;
 }
 
 .App-logo {
