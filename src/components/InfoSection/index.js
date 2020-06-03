@@ -1,6 +1,6 @@
 import React from 'react';
 import '../App.css';
-import { queryAllByPlaceholderText } from '@testing-library/react';
+
 
 function InfoSection(){
     return(
@@ -27,6 +27,21 @@ function InfoSection(){
     <li>Design (Agency)</li>
     </ul>
     <h2>Technical Skills</h2>
+    <p>Programming languages and frameworks I have gained competencies in during the School of Code Bootcamp.</p>
+
+    <ul>
+        <li>JavaScript</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>React</li>
+        <li>Next.js</li>
+        <li>Postgres</li>
+        <li>Express</li>   
+    </ul>
+
+    <h2>Projects</h2>
+
+    
 
 </div>
     );
