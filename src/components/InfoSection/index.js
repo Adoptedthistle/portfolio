@@ -40,6 +40,14 @@ function InfoSection(){
     </ul>
 
     <h2>Projects</h2>
+        <p>Take a look at some of my projects</p>
+
+        <ul>
+            <li>VOLT (Final School of Code Project)</li>
+            <li>Adult Education Database</li>
+            <li>Codeman</li>
+            <li>Shopping List</li>
+        </ul>
 
     
 
